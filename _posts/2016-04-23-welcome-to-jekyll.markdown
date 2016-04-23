@@ -8,7 +8,7 @@ categories: kelly birthday
 <img style="max-width: 35%;
     float: right;
     height: auto" 
-    src="/assets/image.jpg"> 
+    src="/assets/image.jpeg"> 
 
 Happy 9th Birthday!!!!
 
@@ -17,4 +17,4 @@ would like! I hope you're having an awesome day! (P.S. great job rock climbing)
 
 love,
 
-Your brother, Nick
+Nick
