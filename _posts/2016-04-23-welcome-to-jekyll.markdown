@@ -8,7 +8,7 @@ categories: kelly birthday
 <img style="max-width: 35%;
     float: right;
     height: auto" 
-    src="/assets/kpenguin.JPG"> 
+    src="/assets/image.jpg"> 
 
 Happy 9th Birthday!!!!
 
